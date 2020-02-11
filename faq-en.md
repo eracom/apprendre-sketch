@@ -7,7 +7,7 @@
 The school is part of the "Secondary Level II" of the Swiss school system, which is 
 equivalent to "upper secondary education" (level 3) in the [ISCED classification](https://en.wikipedia.org/wiki/International_Standard_Classification_of_Education).
 
-The school has currently about 800 students, which are enrolled in several departments, among which: Graphic Design, Interactive Media Design, Fashion Design... About 150 students are enrolled in Interactive Media Design.
+The school has currently about 800 students, which are enrolled in several departments, among which: Graphic Design, Interactive Media Design, Fashion Design... About 130 students are enrolled in Interactive Media Design.
 
 Official school website: [eracom.ch](https://eracom.ch/)
 
