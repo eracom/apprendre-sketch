@@ -13,7 +13,7 @@ Official school website: [eracom.ch](https://eracom.ch/)
 
 ## Duration
 
-The duration of the full curriculuem is 4 years (including a 6-month internship).
+The duration of the full curriculum is 4 years (including a 6-month internship).
 
 ## Tuition frees
 
