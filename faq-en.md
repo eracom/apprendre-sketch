@@ -30,9 +30,12 @@ Courses using sketch in the Interactive Media Design curriculum.
 - [Design-écran, UI, UX 3](https://eracom.github.io/objectifs-formation-imd/objectifs-ep/design-ecran-3.html)
 - [Design-écran, UI, UX 4](https://eracom.github.io/objectifs-formation-imd/objectifs-ep/design-ecran-4.html)
 
-## Who is teaching Sketch?
+## Our faculty – Who is teaching Sketch?
 
-- Joëlle Aeschlimann
+Some of our teachers using Sketch with their classes:
+
+- [Joëlle Aeschlimann](http://www.joelleaeschlimann.com/), Interaction designer
 - Adrien Cater
+- Gaël Paccard, Interaction designer
+- [Manuel Schmalstieg](https://ms-studio.net/), front-end designer
 - Loris Grillet (workshops)
-- Gaël Paccard
