@@ -2,7 +2,7 @@
 
 ## About Eracom
 
-**Eracom** is a public professionnal school in the field of communication and design, in Lausanne, Switzerland. It started as a professionnal school for typesetters in 1942 (Ecole Romande des Typographes) and is named Eracom (Ecole Romande  d'arts et communication) since 2000.
+**Eracom** is a public professional school in the field of communication and design, in Lausanne, Switzerland. It started as a professionnal school for typesetters in 1942 (Ecole Romande des Typographes) and is named Eracom (Ecole Romande  d'arts et communication) since 2000.
 
 The school is part of the "Secondary Level II" of the Swiss school system, which is 
 equivalent to "upper secondary education" (level 3) in the [ISCED classification](https://en.wikipedia.org/wiki/International_Standard_Classification_of_Education).
