@@ -38,4 +38,4 @@ Some of our teachers using Sketch with their classes:
 - Adrien Cater
 - Gaël Paccard, Interaction designer
 - [Manuel Schmalstieg](https://ms-studio.net/), front-end designer
-- Loris Grillet (workshops)
+- [Loris Grillet](https://www.loriskumo.com/) (workshops)
