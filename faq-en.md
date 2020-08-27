@@ -23,12 +23,12 @@ Eracom is a free public school without tuition fees. A small yearly fee (about 5
 
 Courses using sketch in the Interactive Media Design curriculum.
 
-- [Design-écran 1](https://eracom.github.io/objectifs-formation-imd/objectifs-ap/design-ecran-1.html)
-- [Design-écran 2](https://eracom.github.io/objectifs-formation-imd/objectifs-ap/design-ecran-2.html)
-- [Design écran, UI, UX 1](https://eracom.github.io/objectifs-formation-imd/objectifs-ep/design-ecran-1.html)
-- [Design-écran, UI, UX 2](https://eracom.github.io/objectifs-formation-imd/objectifs-ep/design-ecran-2.html)
-- [Design-écran, UI, UX 3](https://eracom.github.io/objectifs-formation-imd/objectifs-ep/design-ecran-3.html)
-- [Design-écran, UI, UX 4](https://eracom.github.io/objectifs-formation-imd/objectifs-ep/design-ecran-4.html)
+- [Design-écran 1](https://eracom.github.io/formation-imd/objectifs-ap/design-ecran-1.html)
+- [Design-écran 2](https://eracom.github.io/formation-imd/objectifs-ap/design-ecran-2.html)
+- [Design écran, UI, UX 1](https://eracom.github.io/formation-imd/objectifs-ep/design-ecran-1.html)
+- [Design-écran, UI, UX 2](https://eracom.github.io/formation-imd/objectifs-ep/design-ecran-2.html)
+- [Design-écran, UI, UX 3](https://eracom.github.io/formation-imd/objectifs-ep/design-ecran-3.html)
+- [Design-écran, UI, UX 4](https://eracom.github.io/formation-imd/objectifs-ep/design-ecran-4.html)
 
 ## Our faculty – Who is teaching Sketch?
 
@@ -36,6 +36,6 @@ Some of our teachers using Sketch with their classes:
 
 - [Joëlle Aeschlimann](http://www.joelleaeschlimann.com/), Interaction designer
 - Adrien Cater
-- Gaël Paccard, Interaction designer
+- [Gaël Paccard](https://lundimardi.info/), Interaction designer
 - [Manuel Schmalstieg](https://ms-studio.net/), front-end designer
 - [Loris Grillet](https://www.loriskumo.com/) (workshops)
